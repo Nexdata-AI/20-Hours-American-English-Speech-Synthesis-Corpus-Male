@@ -1,5 +1,5 @@
 # 20-Hours-American-English-Speech-Synthesis-Corpus-Male
-https://www.datatang.ai/datasets/1159
+
 
 ## Description
 Male audio data of American English. It is recorded by American English native speakers, with authentic accent. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
